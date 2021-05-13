@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Covidmeter/static/css/main.6106c7c3.chunk.css",
+    "main.js": "/Covidmeter/static/js/main.feab9852.chunk.js",
+    "main.js.map": "/Covidmeter/static/js/main.feab9852.chunk.js.map",
+    "runtime-main.js": "/Covidmeter/static/js/runtime-main.66df9e0a.js",
+    "runtime-main.js.map": "/Covidmeter/static/js/runtime-main.66df9e0a.js.map",
+    "static/css/2.c1e28d34.chunk.css": "/Covidmeter/static/css/2.c1e28d34.chunk.css",
+    "static/js/2.98022699.chunk.js": "/Covidmeter/static/js/2.98022699.chunk.js",
+    "static/js/2.98022699.chunk.js.map": "/Covidmeter/static/js/2.98022699.chunk.js.map",
+    "static/js/3.f051c309.chunk.js": "/Covidmeter/static/js/3.f051c309.chunk.js",
+    "static/js/3.f051c309.chunk.js.map": "/Covidmeter/static/js/3.f051c309.chunk.js.map",
+    "index.html": "/Covidmeter/index.html",
+    "static/css/2.c1e28d34.chunk.css.map": "/Covidmeter/static/css/2.c1e28d34.chunk.css.map",
+    "static/css/main.6106c7c3.chunk.css.map": "/Covidmeter/static/css/main.6106c7c3.chunk.css.map",
+    "static/js/2.98022699.chunk.js.LICENSE.txt": "/Covidmeter/static/js/2.98022699.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66df9e0a.js",
+    "static/css/2.c1e28d34.chunk.css",
+    "static/js/2.98022699.chunk.js",
+    "static/css/main.6106c7c3.chunk.css",
+    "static/js/main.feab9852.chunk.js"
+  ]
+}
